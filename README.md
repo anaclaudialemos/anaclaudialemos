@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Ana Cláudia, but you can call me Ana. I have a degree in Electrical Engineering, and I have been dedicated to the study and practices of Data Science. I'm passionate about transforming a pile of data into high-impact information. :woman_technologist:
+I'm Ana Cláudia, but you can call me Ana.
+
+I have a degree in Electrical Engineering, and currently, I have been dedicated to the study and practices of Data Science. I'm passionate about transforming a pile of data into high-impact information. :woman_technologist:
 
 📫 How to reach me:
 
