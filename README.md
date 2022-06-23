@@ -2,7 +2,7 @@
 
 I'm Ana Cláudia, or just Ana :)
 
-I have a degree in Electrical Engineering and in, 2020 I discovered a new passion, finding insights and solving problems through data. Since then, I have dedicated myself to learning Data Science. :woman_technologist:
+I have a degree in Electrical Engineering and in the end of 2020 I discovered a new passion, finding insights and solving problems through data. Since then, I have dedicated myself to learning Data Science. :woman_technologist:
 
 ##### 🤝 Connect with me:
 
