@@ -14,7 +14,7 @@ I have a degree in Electrical Engineering and in the end of 2021 I discovered a 
 ### DATA SCIENCE PROJECTS
 
 #### [SALES PREDICTIONS FOR A DRUGSTORE CHAIN](https://github.com/anaclaudialemos/drugstore_sales_prediction)   
-**Business Problem:** Rossmann is a pharmacy chain that operates over 3,000 stores in 7 European countries. The stores are going to be renovated and the CFO needs to know how much can be invested in each one of them.   
+Rossmann is a pharmacy chain that operates over 3,000 stores in 7 European countries. The stores are going to be renovated and the CFO needs to know how much can be invested in each one of them.   
 
 **Solution:** Develop a prediction model for sales and a telegram bot (ongoing) that returns sales predictions given a store id number.
 
@@ -27,7 +27,7 @@ I have a degree in Electrical Engineering and in the end of 2021 I discovered a 
 
 **Solution:** Predict the customer satisfaction (positive or negative) for the next purchases made from Brazilian e-commerce intermediated by Olist.   
 
-**Conclusion:** The model has an accuracy of 72%. For the positive review scores, the model was able to correctly identify 56.60%. Most important for the business is the correct identification of negative scores, since misclassification of negative scores can result in loss of customers. For negative score identification the model was able to correctly identify 65%. The model still needs to be improved. Since the predictor variables have a weak relationship with the target variable, working more on feature engineering and using an algorithm for feature selection is something that might help.    
+**Conclusion:** The model has an accuracy of 72%. For the positive review scores, the model was able to correctly identify 56.60%. Most important for the business is the correct identification of negative scores, since misclassification of negative scores can result in loss of customers. For negative score identification the model was able to correctly identify 65%. The model still needs to be improved. In any case, we already have a process, scalable and does not rely on subjective decisions, which generates time and resource savings.
 
 **Repository:** [Predicting E-commerce Customer Satisfaction](https://github.com/anaclaudialemos/predicting_customer_satisfaction/blob/main/README.md)   
 
