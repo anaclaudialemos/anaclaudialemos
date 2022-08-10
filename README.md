@@ -4,6 +4,7 @@ I'm Ana Claudia, or just Ana :)
 
 I have a degree in Electrical Engineering and in the end of 2021 I discovered a new passion, finding insights and solving problems through data. Since then, I have dedicated myself to learning Data Science. :woman_technologist:
 
+
 #### 🤝 Contact me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaclaudiarlemos//)](https://www.linkedin.com/in/anaclaudiarlemos/)
@@ -32,7 +33,7 @@ I have a degree in Electrical Engineering and in the end of 2021 I discovered a 
 
 #### [HOUSING MARKET INSIGHTS - DATA ANALISIS](https://github.com/anaclaudialemos/housing_market_analysis)   
 
-**Business Problem:** House Rocket business model consists of purchasing and reselling properties through a digital platform. The company is looking for new properties for its portfolio. The data scientist is in charge to help find the best business opportunities by answering the questions. Which properties should the company buy Once the property is in the company's possession, how long wait before selling it, and what would ta the sale price be?   
+**Business Problem:** House Rocket business model consists of purchasing and reselling properties through a digital platform. The company is looking for new properties for its portfolio. The data scientist is in charge to help find the best business opportunities by answering the questions: which properties should the company buy? once the property is in the company's possession, how long wait before selling it, and what would ta the sale price be?   
 
 **Solution:** Develop a online dashboard with selected properties, a map view with properties distribution, a table with attributes filters, and the expected profit for each property.
 
@@ -42,10 +43,10 @@ I have a degree in Electrical Engineering and in the end of 2021 I discovered a 
 
 #### [WEBSCRAPING AND ANALYSIS OF FASHION TRENDS AND PRICING](https://github.com/anaclaudialemos/housing_market_analysis)   
 
-**Business Problem:** Mariana and Laura are planning to enter the US fashion market as an e-commerce business model. The initial idea is to enter the market with only one product and for a specific public, i,n this case the product would be jeans for the female public. However, even with the entrance product and the audience defined, the partners have no experience in this fashion market and therefore do not know how to define basic things like price, the type of jeans, and the main materials to manufacture each piece. So the partners hired a Data Science consultancy to answer the following questions: what would be the medium sales ticket of the products? what are the types of jeans and their colors for the initial products? what are the product's compositions?   
+**Business Problem:** Mariana and Laura are planning to enter the US fashion market as an e-commerce business model. The initial idea is to enter the market with only one product and for a specific public, i,n this case the product would be jeans for the female public. However, the partners have no experience in this market. So the partners hired a Data Science consultancy to answer the following questions: what would be the medium sales ticket of the products? what are the types of jeans and their colors for the initial products? what are the product's compositions? The main competitors in the business are H&M and Macy's. 
 
 **Solution:** Follow the steps: ETL architecture design, web scraping, data cleansing, saving data to database, data analysis, delivery of answers and insights via report.
 
-**Conclusion:** The medium price of the competitor's products is 29.99 USD. 75% of the products in the dataset are between 17.99 USD and 34.99 USD. Of the 24 styles present in the dataset, 8 represent 80% of the products in the dataset: straightleg, tapered mom, straightleg widecut, skinny, slim, jeggings, mom straightleg, and widecut. In terms of length and waist, the ankle and long lengths represent practically 100% of the products, and 82.37% have either a high or ultra high waist. About the fit, 80% of the products have fit loose, regular, or slim. Of the 46 colors available 7 represent 80% of the products in the dataset: light denim blue, denim blue, black, dark denim blue, white, and pale denim blue. Jeans that are not 100% cotton are most often also made of spandex and polyester. Almost 80% of products have some percentage of material that is considered environmentally responsible.
+**Conclusion:** The medium price of the competitor's products is 29.99 USD, and 75% of the products in the dataset are between 17.99 USD and 34.99 USD. Of the 24 styles present in the dataset, 8 represent 80% of the products in the dataset. About the fit, 80% of the products have fit loose, regular, or slim. Of the 46 colors available 7 represent 80% of the products in the dataset. Jeans that are not 100% cotton are most often also made of spandex and polyester. Almost 80% of products have some percentage of material that is considered environmentally responsible.
 
 **Repository:** [Scraping and Analysis of Fashion Trends and Pricing](https://github.com/anaclaudialemos/housing_market_analysis) 
