@@ -40,7 +40,7 @@ I have a degree in Electrical Engineering and in the end of 2021 I discovered a 
 
 **Repository:** [King County Housing Market Insights](https://github.com/anaclaudialemos/housing_market_analysis) 
 
-#### [WEBSCRAPING AND ANALYSIS OF FASHION TRENDS AN PRICING](https://github.com/anaclaudialemos/housing_market_analysis)   
+#### [WEBSCRAPING AND ANALYSIS OF FASHION TRENDS AND PRICING](https://github.com/anaclaudialemos/housing_market_analysis)   
 
 **Business Problem:** Mariana and Laura are planning to enter the US fashion market as an e-commerce business model. The initial idea is to enter the market with only one product and for a specific public, i,n this case the product would be jeans for the female public. However, even with the entrance product and the audience defined, the partners have no experience in this fashion market and therefore do not know how to define basic things like price, the type of jeans, and the main materials to manufacture each piece. So the partners hired a Data Science consultancy to answer the following questions: what would be the medium sales ticket of the products? what are the types of jeans and their colors for the initial products? what are the product's compositions?   
 
