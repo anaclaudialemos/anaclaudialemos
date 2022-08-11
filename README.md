@@ -41,7 +41,7 @@ Rossmann is a pharmacy chain that operates over 3,000 stores in 7 European count
 
 **Repository:** [King County Housing Market Insights](https://github.com/anaclaudialemos/housing_market_analysis) 
 
-#### [WEBSCRAPING AND ANALYSIS OF FASHION TRENDS AND PRICING](https://github.com/anaclaudialemos/housing_market_analysis)   
+#### [WEBSCRAPING AND ANALYSIS OF FASHION TRENDS AND PRICING](https://github.com/anaclaudialemos/scraping_and_analysis_of_fashion_products)   
 
 **Business Problem:** Mariana and Laura are planning to enter the US fashion market as an e-commerce business model. The initial idea is to enter the market with only one product and for a specific public, i,n this case the product would be jeans for the female public. However, the partners have no experience in this market. So the partners hired a Data Science consultancy to answer the following questions: what would be the medium sales ticket of the products? what are the types of jeans and their colors for the initial products? what are the product's compositions? The main competitors in the business are H&M and Macy's. 
 
@@ -49,4 +49,4 @@ Rossmann is a pharmacy chain that operates over 3,000 stores in 7 European count
 
 **Conclusion:** The medium price of the competitor's products is 29.99 USD, and 75% of the products in the dataset are between 17.99 USD and 34.99 USD. Of the 24 styles present in the dataset, 8 represent 80% of the products in the dataset. About the fit, 80% of the products have fit loose, regular, or slim. Of the 46 colors available 7 represent 80% of the products in the dataset. Jeans that are not 100% cotton are most often also made of spandex and polyester. Almost 80% of products have some percentage of material that is considered environmentally responsible.
 
-**Repository:** [Scraping and Analysis of Fashion Trends and Pricing](https://github.com/anaclaudialemos/housing_market_analysis) 
+**Repository:** [Scraping and Analysis of Fashion Trends and Pricing](https://github.com/anaclaudialemos/scraping_and_analysis_of_fashion_products) 
