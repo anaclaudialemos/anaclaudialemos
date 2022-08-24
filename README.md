@@ -16,7 +16,7 @@ I have a degree in Electrical Engineering and in the end of 2021 I discovered a 
 #### [SALES PREDICTIONS FOR A DRUGSTORE CHAIN](https://github.com/anaclaudialemos/drugstore_sales_prediction)   
 Rossmann is a pharmacy chain that operates over 3,000 stores in 7 European countries. The stores are going to be renovated and the CFO needs to know how much can be invested in each one of them.   
 
-**Solution:** Develop a prediction model for sales and a telegram bot (ongoing) that returns sales predictions given a store id number.
+**Solution:** Develop a prediction model for sales and a telegram bot that returns sales predictions given a store id number.
 
 **Conclusion:** The model developed predicts a gross income of $285.71 MM in the next 6 weeks for the stores available, where the best and worst case scenarios results on $286.42 MM and $284.99 MM, respectively.    
 
