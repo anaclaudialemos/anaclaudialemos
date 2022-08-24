@@ -22,7 +22,7 @@ Rossmann is a pharmacy chain that operates over 3,000 stores in 7 European count
 
 **Repository:** [Sales Predictions for a Drugstore Chain](https://github.com/anaclaudialemos/drugstore_sales_prediction)   
 
-#### [E-COMMERCE CUSTOMER SATISFACTION PREDICITION](https://github.com/anaclaudialemos/predicting_customer_satisfaction)   
+#### [E-COMMERCE CUSTOMER SATISFACTION PREDICTION](https://github.com/anaclaudialemos/predicting_customer_satisfaction)   
 **Business Problem:** Olist is an e-commerce intermediary from Brazil that provides a platform to connect merchants and their products to the main marketplaces in Brazil. Providing better services to customers is one of the main keys to success as an e-commerce seller. For sellers, Knowing whether the review score is positive or negative, plays a crucial role in improving the business. But often, customers don't give ratings or comments.   
 
 **Solution:** Predict the customer satisfaction (positive or negative) for the next purchases made from Brazilian e-commerce intermediated by Olist.   
