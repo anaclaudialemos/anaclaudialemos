@@ -18,7 +18,7 @@ Rossmann is a pharmacy chain that operates over 3,000 stores in 7 European count
 
 **Solution:** Develop a prediction model for sales and a telegram bot that returns sales predictions given a store id number.
 
-**Conclusion:** The model developed predicts a gross income of $285.71 MM in the next 6 weeks for the stores available, where the best and worst case scenarios results on $286.42 MM and $284.99 MM, respectively.    
+**Conclusion:** The model developed predicts a gross income of $285.71 MM in the next 6 weeks for the stores available, where the best and worst case scenarios results are $286.42 MM and $284.99 MM, respectively.    
 
 **Repository:** [Sales Predictions for a Drugstore Chain](https://github.com/anaclaudialemos/drugstore_sales_prediction)   
 
