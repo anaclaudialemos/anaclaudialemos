@@ -25,7 +25,7 @@ Rossmann is a pharmacy chain that operates over 3,000 stores in 7 European count
 #### [E-COMMERCE CUSTOMER SATISFACTION PREDICTION](https://github.com/anaclaudialemos/predicting_customer_satisfaction)   
 **Business Problem:** Olist is an e-commerce intermediary from Brazil that provides a platform to connect merchants and their products to the main marketplaces in Brazil. Providing better services to customers is one of the main keys to success as an e-commerce seller. For sellers, Knowing whether the review score is positive or negative, plays a crucial role in improving the business. But often, customers don't give ratings or comments.   
 
-**Solution:** Predict the customer satisfaction (positive or negative) for the next purchases made from Brazilian e-commerce intermediated by Olist.   
+**Solution:** Predict the customer satisfaction (positive or negative) for the next purchases made from Brazilian E-commerce intermediated by Olist.   
 
 **Conclusion:** The model has an accuracy of 72%. For the positive review scores, the model was able to correctly identify 56.60%. Most important for the business is the correct identification of negative scores, since misclassification of negative scores can result in loss of customers. For negative score identification the model was able to correctly identify 65%. The model still needs to be improved. In any case, we already have a process, scalable and does not rely on subjective decisions, which generates time and resource savings.
 
@@ -45,7 +45,7 @@ Rossmann is a pharmacy chain that operates over 3,000 stores in 7 European count
 
 **Business Problem:** Mariana and Laura are planning to enter the US fashion market as an e-commerce business model. The initial idea is to enter the market with only one product and for a specific public, i,n this case the product would be jeans for the female public. However, the partners have no experience in this market. So the partners hired a Data Science consultancy to answer the following questions: what would be the medium sales ticket of the products? what are the types of jeans and their colors for the initial products? what are the product's compositions? The main competitors in the business are H&M and Macy's. 
 
-**Solution:** Follow the steps: ETL architecture design, web scraping, data cleansing, saving data to database, data analysis, delivery of answers and insights via report.
+**Solution:** Follow the steps: ETL architecture design, web scraping, data cleansing, saving data to database, data analysis, delivery of answers and insights via pdf report.
 
 **Conclusion:** The medium price of the competitor's products is 29.99 USD, and 75% of the products in the dataset are between 17.99 USD and 34.99 USD. Of the 24 styles present in the dataset, 8 represent 80% of the products in the dataset. About the fit, 80% of the products have fit loose, regular, or slim. Of the 46 colors available 7 represent 80% of the products in the dataset. Jeans that are not 100% cotton are most often also made of spandex and polyester. Almost 80% of products have some percentage of material that is considered environmentally responsible.
 
