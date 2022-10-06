@@ -13,6 +13,15 @@ I graduated in Electrical Engineering and in the end of 2021 I discovered a new 
 #
 ### DATA SCIENCE PROJECTS
 
+#### [LEARNING TO RANK FOR INSURANCE CROSS SELL](https://github.com/anaclaudialemos/learning_to_rank_for_cross_sell)   
+**Business Problem:** A traditional health insurance company wants to expand its business, and the company has chosen to offer its customers car insurance. Through a survey, it has obtained feedback from 380,000 customers about whether or not they are interested in acquiring car insurance. The product team plans a campaign for 127,000 new customers who did not respond to the survey, in which they will be offered the auto insurance product, but realized that it would not be able to reach this entire customer base, as it will use telephone calls to offer the product, and the sales team have a capacity to make only 20,000 calls in the campaign period.
+
+**Solution:** Develop a model to obtain the probability that a given customer in a list, acquire car insurance, and sort the list from the customer with the highest probability to the lowest probability of acquiring the car insurance.
+ 
+**Conclusion:** Making 20,000 calls from a list of 127,000 customers, the model would be able to identify 44% of the total number of customers interested in acquiring car insurance, with the ML model being approximately 2.7 times better than the solution used before. Increased to 40,000 calls the model would be able to identify 75% of the total number of customers interested in purchasing auto insurance, meaning that the ML model is approximately 2.3 times better than the solution used before. To reach 90% of interested customers, with the ML model the sales team will only have to make 53,340 calls, which represents 42% of the entire customer list, a reduction of 48% of the number of calls compared to the solution used before.
+
+**Repository:** [Learning to Rank for Insurance Cross Sell](https://github.com/anaclaudialemos/learning_to_rank_for_cross_sell)   
+
 #### [SALES FORECASTS FOR A DRUGSTORE CHAIN](https://github.com/anaclaudialemos/drugstore_sales_prediction)   
 Rossmann is a pharmacy chain that operates over 3,000 stores in 7 European countries. The stores are going to be renovated and the CFO needs to know how much can be invested in each one of them.   
 
@@ -21,15 +30,6 @@ Rossmann is a pharmacy chain that operates over 3,000 stores in 7 European count
 **Conclusion:** The model developed predicts a gross income of 285,707,584.00 USD in the next 6 weeks for the stores available, where the best and worst case scenarios results on 286,423,764.87 USD and 284,991,409.31 USD, respectively.    
 
 **Repository:** [Sales Forecasts for a Drugstore Chain](https://github.com/anaclaudialemos/drugstore_sales_prediction)   
-
-#### [E-COMMERCE CUSTOMER SATISFACTION PREDICTION](https://github.com/anaclaudialemos/predicting_customer_satisfaction)   
-**Business Problem:** Olist is an e-commerce intermediary from Brazil that provides a platform to connect merchants and their products to the main marketplaces in Brazil. Providing better services to customers is one of the main keys to success as an e-commerce seller. For sellers, Knowing whether the review score is positive or negative, plays a crucial role in improving the business. But often, customers don't give ratings or comments.   
-
-**Solution:** Predict the customer satisfaction (positive or negative) for the next purchases made from Brazilian E-commerce intermediated by Olist.   
-
-**Conclusion:** The model has an accuracy of 72%. For the positive review scores, the model was able to correctly identify 56.60%. Most important for the business is the correct identification of negative scores, since misclassification of negative scores can result in loss of customers. For negative score identification the model was able to correctly identify 65%. The model still needs to be improved. In any case, we already have a process, scalable and does not rely on subjective decisions, which generates time and resource savings.
-
-**Repository:** [Predicting E-commerce Customer Satisfaction](https://github.com/anaclaudialemos/predicting_customer_satisfaction/blob/main/README.md)   
 
 #### [HOUSING MARKET INSIGHTS - DATA ANALISIS](https://github.com/anaclaudialemos/housing_market_analysis)   
 
