@@ -2,8 +2,9 @@
 
 I'm Ana Claudia, or just Ana :)
 
-I graduated in Electrical Engineering and in the end of 2021 I discovered a new passion, finding insights and solving problems through data. Since then, I have dedicated myself to learning Data Science. :woman_technologist:
+I'm motivated by getting answers, solving problems, and understanding how everything works. I like the idea of turning a heap of data into meaningful, accessible, and impactful information, which led me to develop myself as a data scientist :woman_technologist:
 
+Main Skills: Data Analysis, Statistics for Data Analysis, SQL, Tableau, Python and Main Data Science Libraries, Machine Learning (Classification, Regression, Clustering and Time Series).
 
 #### 🤝 Contact me:
 
